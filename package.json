@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nageshjha/public-repo-test/issues"
   },
-  "homepage": "https://github.com/nageshjha/public-repo-test#readme"
+  "homepage": "https://github.com/nageshjha/public-repo-test#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
